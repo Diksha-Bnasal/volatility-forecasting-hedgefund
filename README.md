@@ -1,6 +1,6 @@
 # volatility-forecasting-hedgefund
 Volatility forecasting and risk-adjusted strategy modeling using GARCH and momentum factors.
-# Smart Volatility Forecasting & Momentum Strategy
+# 📊 Smart Volatility Forecasting & Momentum Strategy
 
 **Volatility forecasting and risk-adjusted strategy modeling using GARCH and momentum factors**
 
@@ -31,4 +31,3 @@ This project showcases the **full research cycle used in hedge funds** — hypot
 ---
 
 ## Repo Structure
----
