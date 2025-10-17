@@ -30,9 +30,9 @@ This project showcases the **full research cycle used in hedge funds** — hypot
 
 ## Repo Structure
 
-volatility_project/
+```volatility_project/
 ├─ data/       # folder to store raw & processed stock price data
 ├─ notebooks/  # folder for Jupyter notebooks (your analysis and modeling)
 ├─ outputs/    # folder for plots, results, metrics
-├─ README.md   # this file, containing project overview
+├─ README.md   # this file, containing project overview```
 
