@@ -27,14 +27,17 @@ This project demonstrates a **quantitative research pipeline** for building a **
 
 ## Purpose
 This project showcases the **full research cycle used in hedge funds** — hypothesis formulation, data processing, statistical modeling, strategy construction, and performance evaluation — all implemented in **Python and R**.
-## Repo Structure
-volatility_project/
-├─ data/           # raw & processed stock price data
-├─ notebooks/      # Jupyter notebooks for each step
-├─ outputs/        # plots, results, metrics
-├─ README.md       # project overview
-
 
 ---
 
 ## Repo Structure
+
+volatility_project/
+├─ data/           # raw & processed stock price data
+---
+├─ notebooks/      # Jupyter notebooks for each step
+---
+├─ outputs/        # plots, results, metrics
+---
+├─ README.md       # project overview
+---
