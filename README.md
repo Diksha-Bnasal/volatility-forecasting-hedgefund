@@ -1,5 +1,5 @@
-# volatility-forecasting-hedgefund
-Volatility forecasting and risk-adjusted strategy modeling using GARCH and momentum factors.
+**Resume Summary:** Developed a risk-adjusted trading strategy using volatility forecasting (GARCH models) and momentum factors, implementing a reproducible pipeline with Python and R.
+
 # 📊 Smart Volatility Forecasting & Momentum Strategy
 
 **Volatility forecasting and risk-adjusted strategy modeling using GARCH and momentum factors**
@@ -27,6 +27,13 @@ This project demonstrates a **quantitative research pipeline** for building a **
 
 ## Purpose
 This project showcases the **full research cycle used in hedge funds** — hypothesis formulation, data processing, statistical modeling, strategy construction, and performance evaluation — all implemented in **Python and R**.
+## Repo Structure
+volatility_project/
+├─ data/           # raw & processed stock price data
+├─ notebooks/      # Jupyter notebooks for each step
+├─ outputs/        # plots, results, metrics
+├─ README.md       # project overview
+
 
 ---
 
