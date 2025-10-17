@@ -20,7 +20,7 @@ This project demonstrates a **quantitative research pipeline** for building a **
 - **Risk-Adjusted Strategy:** Applied dynamic position sizing using predicted volatility and momentum filters.  
 - **Backtesting & Evaluation:** Evaluated performance with **Sharpe ratio**, **Sortino ratio**, max drawdown, turnover, and robustness tests across different time periods.  
 
-> This approach mirrors real-world hedge fund research: **hypothesize, implement, test, and iterate**.
+> This approach mirrors real-world research: **hypothesize, implement, test, and iterate**.
 
 ---
 
@@ -50,4 +50,4 @@ It showcases **real-world quantitative research methods** used in hedge funds �
 ├─ data/       # raw & processed stock price data
 ├─ notebooks/  # step-by-step notebooks for analysis and modeling
 ├─ outputs/    # plots, results, metrics, and observations
-├─ README.md   # this file, describing the project```**
+├─ README.md   # this file, describing the project
