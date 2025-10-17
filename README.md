@@ -1,11 +1,15 @@
-**Resume Summary:** Developed a risk-adjusted trading strategy using volatility forecasting (GARCH models) and momentum factors, implementing a reproducible pipeline with Python and R.
+# 📊 Smart Volatility Forecasting & Momentum Strategy
+A quantitative research project demonstrating volatility forecasting with GARCH models and risk-adjusted trading strategies using momentum factors.
 
-**Volatility forecasting and risk-adjusted strategy modeling using GARCH and momentum factors**
+---
+
+## Motivation
+This project explores the practical application of volatility forecasting and momentum strategies in financial markets. It demonstrates a modular, reproducible workflow for risk-adjusted trading and provides insights into market dynamics. The goal is to showcase **real-world quantitative research methods** used in hedge funds.
 
 ---
 
 ## Project Overview
-This project demonstrates a **quantitative research pipeline** for building a **risk-adjusted trading strategy** using **volatility forecasting (GARCH models)** and **momentum factors**. It is designed to mirror real-world hedge fund research, with a focus on:
+This project demonstrates a **quantitative research pipeline** for building a **risk-adjusted trading strategy** using **volatility forecasting (GARCH models)** and **momentum factors**. Key components include:
 
 - **Data Collection & Cleaning:** Historical daily stock prices for liquid US equities.
 - **Volatility Modeling:** GARCH-family models (GARCH, EGARCH, TGARCH) to forecast future volatility.
@@ -24,7 +28,14 @@ This project demonstrates a **quantitative research pipeline** for building a **
 ---
 
 ## Purpose
-This project showcases the **full research cycle used in hedge funds** — hypothesis formulation, data processing, statistical modeling, strategy construction, and performance evaluation — all implemented in **Python and R**.
+This project showcases the **full research cycle used in hedge funds** — hypothesis formulation, data processing, statistical modeling, strategy construction, and performance evaluation — implemented in **Python and R**.
+
+---
+
+## Technologies / Tools Used
+- Python, R, Jupyter Notebook
+- pandas, numpy, statsmodels, matplotlib, seaborn
+- GitHub for version control and project documentation
 
 ---
 
